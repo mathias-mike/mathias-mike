@@ -1,9 +1,9 @@
-### Hi there, I'm Michael 👋
+### Hi there, I'm Mike 👋
 
-## I'm a Problem solver and Data scientist!!
+## I'm a Problem solver venturing into Data scientist!!
 
-- 🔭 Finalist Student Advocate in the [BIT and Udacity Scholarship Phase 1][bit]!
-- 🌟 I have a "Rank 1" and a "5 star Golden Badge" in [Hackerrank][hackerrank] SQL!
+- 🔭 I'm a finalist Student Advocate in the [BIT and Udacity Scholarship Phase 1][bit]!
+- 🌟 I've got a "Rank 1" and a "5 star Golden Badge" in [Hackerrank][hackerrank] SQL!
 - 🌱 I'm learning everything about data science
 - 🥅 2021 Goals: Become a data scientist
 - ⚡ Fun fact: I love sport (Soccer a little more than others) and I love to play chase (No soo good though 😛)
