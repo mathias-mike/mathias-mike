@@ -41,7 +41,7 @@
 
 ---
 
-[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathias-mike)](https://github.com/mathias-mike/github-readme-stats)
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathias-mike&count_private=true&show_icons=true)](https://github.com/mathias-mike/github-readme-stats)
 
 
 [hackerrank]: https://www.hackerrank.com/mathias_mike
