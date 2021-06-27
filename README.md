@@ -3,7 +3,7 @@
 ## I'm a Problem solver and Data scientist!!
 
 - 🔭 Finalist Student Advocate in the [BIT and Udacity Scholarship Phase 1][bit]!
-- 🌟 I've gotten a Rank 1 and a 5 star Golden Badge in [Hackerrank][hackerrank] SQL practice questions
+- 🌟 I've gotten a Rank 1 and a 5 star Golden Badge in [Hackerrank][hackerrank] SQL!
 - 🌱 I'm learning everything about data science
 - 🥅 2021 Goals: Become a data scientist
 - ⚡ Fun fact: I love sport (Soccer a little more than others) and I love to play chase (No soo good though 😛)
