@@ -2,11 +2,11 @@
 
 ## I'm a Problem solver and Data scientist!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 Finalist Student Advocate in the [BIT and Udacity Scholarship Phase 1][bit]!
+- 🌟 I've gotten a Rank 1 and a 5 star Golden Badge in [Hackerrank][hackerrank] SQL practice questions
+- 🌱 I'm learning everything about data science
+- 🥅 2021 Goals: Become a data scientist
+- ⚡ Fun fact: I love sport (Soccer a little more than others) and I love to play chase (No soo good though 😛)
 
 ### Connect with me:
 
@@ -90,8 +90,8 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+[hackerrank]: https://www.hackerrank.com/mathias_mike
+[bit]: https://foundation.blacksintechnology.net
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
