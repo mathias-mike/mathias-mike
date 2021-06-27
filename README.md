@@ -3,7 +3,7 @@
 ## I'm a Problem solver and Data scientist!!
 
 - 🔭 Finalist Student Advocate in the [BIT and Udacity Scholarship Phase 1][bit]!
-- 🌟 I've gotten a Rank 1 and a 5 star Golden Badge in [Hackerrank][hackerrank] SQL!
+- 🌟 I have a "Rank 1" and a "5 star Golden Badge" in [Hackerrank][hackerrank] SQL!
 - 🌱 I'm learning everything about data science
 - 🥅 2021 Goals: Become a data scientist
 - ⚡ Fun fact: I love sport (Soccer a little more than others) and I love to play chase (No soo good though 😛)
@@ -41,25 +41,8 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-<!--END_SECTION:activity-->
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathias-mike)](https://github.com/mathias-mike/github-readme-stats)
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [hackerrank]: https://www.hackerrank.com/mathias_mike
 [bit]: https://foundation.blacksintechnology.net
