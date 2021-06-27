@@ -10,6 +10,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="mathias-mike | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="mathias-mike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mathias-mike | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="mathias-mike | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -93,6 +94,7 @@
 [twitter]: https://twitter.com/mathiasmike_?s=09
 [whatsapp]: https://wa.me/message/4G2MHXKJYKRAO1
 [linkedin]: https://www.linkedin.com/in/michaelofficial/
+[gmail]: mr.michaelofficial@gmail.com
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
