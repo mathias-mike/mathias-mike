@@ -1,8 +1,5 @@
 ### Hi there, I'm Michael 👋
 
-[![LinkedIn Profile](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/michaelofficial?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7WkOlPtKQLu62Ao%2FRdIJtQ%3D%3D)
-[![Email address](https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png)](mr.michaelofficial@gmail.com)
-
 ## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
