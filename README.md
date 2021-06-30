@@ -1,6 +1,6 @@
 ### Hi there, I'm Mike 👋
 
-## I'm a Problem solver venturing into Data scientist!!
+## I'm a Problem solver venturing into Data science!!
 
 - 🔭 I'm a finalist Student Advocate in the [BIT and Udacity Scholarship Phase 1][bit]!
 - 🌟 I've got a "Rank 1" and a "5 star Golden Badge" in [Hackerrank][hackerrank] SQL!
