@@ -52,7 +52,7 @@
 [twitter]: https://twitter.com/mathiasmike_?s=09
 [whatsapp]: https://wa.me/message/4G2MHXKJYKRAO1
 [linkedin]: https://www.linkedin.com/in/michaelofficial/
-[gmail]: mr.michaelofficial@gmail.com
+[gmail]: mathiasmike01@gmail.com
 [python]: https://www.python.org/
 [jupyter-notebook]: https://jupyter.org/
 [sql]: https://en.wikipedia.org/wiki/SQL
