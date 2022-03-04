@@ -1,12 +1,16 @@
 ### Hi there, I'm Mike 👋
 
-## I'm a Problem solver venturing into Data science!!
+## I'm a Problem solver and a Data Engineer!
 
-- 🔭 I'm a finalist Student Advocate in the [BIT and Udacity Scholarship Phase 1][bit]!
+- 🥇 Certified **Data Analyst** [Udacity Data Analyst Nanodegree][bit]!
+- 🏆 Certified **Data Engineer** [Udacity Data Engineer Nanodegree][]! 
 - 🌟 I've got a "Rank 1" and a "5 star Golden Badge" in [Hackerrank][hackerrank] SQL!
-- 🌱 I'm learning everything about data science
-- 🥅 2021 Goals: Become a data scientist
+- 🌱 I'm learning everything about data.
+- 🥅 Goals: Mastery of data skills, use this skills to add value to an organisation and essentially change the world.
 - ⚡ Fun fact: I love sport (Soccer a little more than others) and I love to play chase (No soo good though 😛)
+
+### Currently
+I and my team are currently tutoring a group of scholars in an SQL masterclass.
 
 ### Connect with me:
 
