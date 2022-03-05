@@ -2,9 +2,9 @@
 
 ## I'm a Problem solver and a Data Engineer!
 
-- 🥇 Certified **Data Analyst** [Udacity Data Analyst Nanodegree][bit]!
-- 🏆 Certified **Data Engineer** [Udacity Data Engineer Nanodegree][]! 
-- 🌟 I've got a "Rank 1" and a "5 star Golden Badge" in [Hackerrank][hackerrank] SQL!
+- 🥇 Certified **Data Analyst** [Udacity Data Analyst Nanodegree][data_analyst_certificate]!
+- 🏆 Certified **Data Engineer** [Udacity Data Engineer Nanodegree][data_engineer_certificate]! 
+- 🌟 I've got a "Rank 1" and a "5 star Golden Badge" in [Hackerrank][hackerrank] SQL! [View SQL Certificate][hackerrank_sql_certificate]
 - 🌱 I'm learning everything about data.
 - 🥅 Goals: Mastery of data skills, use this skills to add value to an organisation and essentially change the world.
 - ⚡ Fun fact: I love sport (Soccer a little more than others) and I love to play chase (No soo good though 😛)
@@ -52,7 +52,9 @@ I and my team are currently tutoring a group of scholars in an SQL masterclass.
 
 
 [hackerrank]: https://www.hackerrank.com/mathias_mike
-[bit]: https://foundation.blacksintechnology.net
+[hackerrank_sql_certificate]: https://www.hackerrank.com/certificates/61120446012e
+[data_analyst_certificate]: https://confirm.udacity.com/MSHEP32J
+[data_engineer_certificate]: https://confirm.udacity.com/MSHEP32J
 [twitter]: https://twitter.com/mathiasmike_?s=09
 [whatsapp]: https://wa.me/message/4G2MHXKJYKRAO1
 [linkedin]: https://www.linkedin.com/in/mathiasmike/
