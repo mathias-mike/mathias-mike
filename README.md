@@ -3,7 +3,7 @@
 ## I'm a Problem solver and a Data Engineer!
 
 - 🥇 Certified **Data Analyst** [Udacity Data Analyst Nanodegree][data_analyst_certificate]!
-- 🏆 Certified **Data Engineer** [Udacity Data Engineer Nanodegree][data_engineer_certificate]! 
+- 🏆 Certified **Data Engineer** [Udacity Data Engineer Nanodegree][data_engineer_certificate]! Coming soon
 - 🌟 I've got a "Rank 1" and a "5 star Golden Badge" in [Hackerrank][hackerrank] SQL! [View SQL Certificate][hackerrank_sql_certificate]
 - 🌱 I'm learning everything about data.
 - 🥅 Goals: Mastery of data skills, use this skills to add value to an organisation and essentially change the world.
