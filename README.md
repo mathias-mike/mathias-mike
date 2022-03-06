@@ -9,6 +9,9 @@
 - 🥅 Goals: Mastery of data skills, use this skills to add value to an organisation and essentially change the world.
 - ⚡ Fun fact: I love sport (Soccer a little more than others) and I love to play chase (No soo good though 😛)
 
+### Codality Challenge Certificates
+[Year of the Tiger](https://app.codility.com/cert/view/certCTSHSK-HE73HTSWEGBXJB2U/)
+
 ### Currently
 I and my team are currently tutoring a group of scholars in an SQL masterclass.
 
