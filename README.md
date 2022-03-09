@@ -55,7 +55,7 @@ I and my team are currently tutoring a group of scholars in an SQL masterclass.
 
 
 [hackerrank]: https://www.hackerrank.com/mathias_mike
-[hackerrank_sql_certificate]: https://www.hackerrank.com/certificates/61120446012e
+[hackerrank_sql_certificate]: https://www.hackerrank.com/certificates/6c99b0795fc0
 [data_analyst_certificate]: https://confirm.udacity.com/MSHEP32J
 [data_engineer_certificate]: https://confirm.udacity.com/ZAMST62Z
 [twitter]: https://twitter.com/mathiasmike_?s=09
