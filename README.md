@@ -5,15 +5,16 @@
 - 🥇 Certified **Data Analyst** [Udacity Data Analyst Nanodegree][data_analyst_certificate]!
 - 🏆 Certified **Data Engineer** [Udacity Data Engineer Nanodegree][data_engineer_certificate]!
 - 🌟 I've got a "Rank 1" and a "5 star Golden Badge" in [Hackerrank][hackerrank] SQL! [View SQL Certificate][hackerrank_sql_certificate]
+- 🌟 Codility [Year of the Tiger](https://app.codility.com/cert/view/certCTSHSK-HE73HTSWEGBXJB2U/) challenge!
 - 🌱 I'm learning everything about data.
 - 🥅 Goals: Mastery of data skills, use this skills to add value to an organisation and essentially change the world.
 - ⚡ Fun fact: I love sport (Soccer a little more than others) and I love to play chase (No soo good though 😛)
 
-### Codility Challenge Certificates
-[Year of the Tiger](https://app.codility.com/cert/view/certCTSHSK-HE73HTSWEGBXJB2U/)
+### Volunteering
+#### SQL Masterclass
+Organized a group or tutors on a mission to take scholars from zero to SQL masters. (Introductory class)[https://www.youtube.com/watch?v=fWVr6Zcp8vM&feature=youtu.be]
+* I took scholars on (SQL windows function)[https://www.youtube.com/watch?v=eP4wjFEpY1o&feature=youtu.be] 
 
-### Currently
-I and my team are currently tutoring a group of scholars in an SQL masterclass.
 
 ### Connect with me:
 
