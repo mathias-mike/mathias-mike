@@ -12,8 +12,8 @@
 
 ### Volunteering
 #### SQL Masterclass
-Organized a group or tutors on a mission to take scholars from zero to SQL masters. (Introductory class)[https://www.youtube.com/watch?v=fWVr6Zcp8vM&feature=youtu.be]
-* I took scholars on (SQL windows function)[https://www.youtube.com/watch?v=eP4wjFEpY1o&feature=youtu.be] 
+Organized a group or tutors on a mission to take scholars from zero to SQL masters. [Introductory class](https://www.youtube.com/watch?v=fWVr6Zcp8vM&feature=youtu.be)
+* I took scholars on [SQL windows function](https://www.youtube.com/watch?v=eP4wjFEpY1o&feature=youtu.be) 
 
 
 ### Connect with me:
